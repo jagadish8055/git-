@@ -1,0 +1,5 @@
+git  checkout  <branchname>
+git  status 
+git  merge  <branch name>
+git  checkout -b  <branchname> -> can create the  branch 
+
